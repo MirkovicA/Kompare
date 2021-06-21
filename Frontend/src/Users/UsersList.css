@@ -1,0 +1,19 @@
+#users {
+    width: 90%;
+    max-width: 42rem;
+    margin: 2rem auto;
+  }
+  
+  #users > p {
+    text-align: center;
+  }
+  
+  .user-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #users > h2 {
+    text-align: center;
+  }

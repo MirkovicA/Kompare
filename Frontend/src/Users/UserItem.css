@@ -1,0 +1,33 @@
+.user-item {
+    margin: 1rem 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    padding: 1rem;
+    background: #fff;
+}
+  
+.user-item h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.75rem;
+  color: #343434;
+}
+  
+.user-item p {
+  margin: 0;
+  color: #505050;
+}
+
+.left {
+  float: left;
+  margin-right: 10rem;
+  vertical-align: middle;
+}
+
+.left p {
+  vertical-align: middle;
+}
+
+.right {
+  text-align: right;
+}
+  
